@@ -2,13 +2,16 @@ body {
   font-family: "Tahoma";
 }
 
+#name{
+  width: 25%;
+}
 #messageBox {
-  width:300px;
+  width: 60%;
 }
 
 #chat {
   height: 300px;
-  width: 440px;
+  width: 95%;
   overflow: scroll;
   padding: 10px 10px 40px 10px;
   border: 1px black solid;
